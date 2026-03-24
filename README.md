@@ -26,7 +26,8 @@ it is closed source.
 - Scrapes payment information
 - scrapes Microsoft Balance
 - scrapes reward points
-- scrapes reward points code 
+- scrapes reward points code
+- Autohang
 
 ## Usage:
 You are not allowed to sell bmsmc.
