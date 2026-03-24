@@ -24,6 +24,9 @@ it is closed source.
 - Embed Capture
 - Scrape buddypass codes (when it is available)
 - Scrapes payment information
+- scrapes Microsoft Balance
+- scrapes reward points
+- scrapes reward points code 
 
 ## Usage:
 You are not allowed to sell bmsmc.
